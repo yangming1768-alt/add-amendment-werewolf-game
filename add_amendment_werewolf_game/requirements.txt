@@ -1,0 +1,4 @@
+agentscope
+pydantic
+numpy
+python-dotenv
